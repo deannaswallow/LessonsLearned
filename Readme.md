@@ -1,3 +1,5 @@
+Things I've learned at Bloc!
+
 1. So much HTML!
 2. Super handy CSS
 3. I'm starting to get a handle on git
